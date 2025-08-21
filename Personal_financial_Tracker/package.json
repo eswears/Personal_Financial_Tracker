@@ -1,0 +1,63 @@
+{
+  "name": "personal-finance-tracker",
+  "version": "1.0.0",
+  "description": "Personal Finance Tracker with AI insights",
+  "main": "src/backend/server.ts",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd src/backend && nodemon server.ts",
+    "client": "cd src/frontend && npm run dev",
+    "build": "cd src/frontend && npm run build",
+    "start": "node src/backend/server.js",
+    "generate-mock": "node scripts/generate-mock-data.js",
+    "generate-csv": "node scripts/generate-mock-data.js csv",
+    "generate-pdf": "node scripts/generate-mock-data.js pdf-text",
+    "generate-both": "node scripts/generate-mock-data.js both",
+    "db:setup": "node scripts/setup-database.js",
+    "test": "jest",
+    "lint": "eslint src/**/*.{ts,tsx}",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/multer": "^2.0.0",
+    "axios": "^1.11.0",
+    "colors": "^1.4.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.2",
+    "express-rate-limit": "^8.0.1",
+    "form-data": "^4.0.4",
+    "helmet": "^8.1.0",
+    "json2csv": "^5.0.7",
+    "multer": "^2.0.2",
+    "node-fetch": "^2.7.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.8.1",
+    "@types/express-fileupload": "^1.5.1",
+    "@types/node": "^20.10.0",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2",
+    "typescript": "^5.3.3"
+  },
+  "keywords": [
+    "finance",
+    "tracker",
+    "budgeting",
+    "AI",
+    "personal-finance"
+  ],
+  "author": "Agent 4",
+  "license": "MIT",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  }
+}

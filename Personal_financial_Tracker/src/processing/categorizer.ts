@@ -1,0 +1,1 @@
+export { categorizationEngine as TransactionCategorizer } from './categorizationEngine';

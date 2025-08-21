@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tailwind CSS Test</title>
+    <style>
+        /* Manual CSS for comparison */
+        .manual-test {
+            background-color: blue;
+            color: white;
+            padding: 16px;
+            margin: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tailwind CSS Diagnostic Test</h1>
+    
+    <!-- Manual CSS test (should work) -->
+    <div class="manual-test">
+        Manual CSS: Blue background, white text (should work)
+    </div>
+    
+    <!-- Tailwind CSS tests -->
+    <div class="bg-red-500 text-white p-4 m-2">
+        Tailwind Test 1: Red background, white text, padding, margin
+    </div>
+    
+    <div class="bg-green-600 text-yellow-300 p-6 rounded-lg shadow-lg">
+        Tailwind Test 2: Green background, yellow text, rounded corners, shadow
+    </div>
+    
+    <div class="flex items-center justify-center h-20 bg-blue-900 text-white">
+        Tailwind Test 3: Flexbox centering, blue background
+    </div>
+</body>
+</html>

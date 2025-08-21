@@ -1,0 +1,913 @@
+BANK STATEMENT
+==================================================
+
+Account Holder: John Doe
+Account Number: ****1234
+Statement Period: 2025-05-01 to 2025-08-14
+
+TRANSACTION DETAILS
+--------------------------------------------------
+
+Date: 2025-05-01
+Description: Monthly Salary Deposit
+Amount: $5000.00 CR
+Balance: $15000.00
+------------------------------
+
+Date: 2025-05-05
+Description: Rent Payment - Apartment
+Amount: $1500.00 DR
+Balance: $13500.00
+------------------------------
+
+Date: 2025-05-15
+Description: AMC Theaters - Purchase
+Amount: $40.12 DR
+Balance: $13459.88
+------------------------------
+
+Date: 2025-05-16
+Description: Generic Transaction - Transfer
+Amount: $1642.76 DR
+Balance: $11817.12
+------------------------------
+
+Date: 2025-05-17
+Description: Generic Transaction - Transaction
+Amount: $116.17 DR
+Balance: $11700.95
+------------------------------
+
+Date: 2025-05-18
+Description: CVS Pharmacy - Purchase
+Amount: $87.48 DR
+Balance: $11613.47
+------------------------------
+
+Date: 2025-05-18
+Description: Car Rental - Transfer
+Amount: $22.40 DR
+Balance: $11591.07
+------------------------------
+
+Date: 2025-05-18
+Description: Apple Store
+Amount: $265.09 DR
+Balance: $11325.98
+------------------------------
+
+Date: 2025-05-20
+Description: CVS Pharmacy - Purchase
+Amount: $434.83 DR
+Balance: $10891.15
+------------------------------
+
+Date: 2025-05-21
+Description: Phone Bill - Transaction
+Amount: $106.16 DR
+Balance: $10784.99
+------------------------------
+
+Date: 2025-05-21
+Description: Concert Tickets - Payment
+Amount: $85.79 DR
+Balance: $10699.20
+------------------------------
+
+Date: 2025-05-21
+Description: Generic Transaction - Payment
+Amount: $161.95 DR
+Balance: $10537.25
+------------------------------
+
+Date: 2025-05-22
+Description: Generic Transaction - Payment
+Amount: $2580.86 DR
+Balance: $7956.39
+------------------------------
+
+Date: 2025-05-22
+Description: Generic Transaction - Payment
+Amount: $655.73 DR
+Balance: $7300.66
+------------------------------
+
+Date: 2025-05-24
+Description: Consulting Fee - Transaction
+Amount: $2459.97 CR
+Balance: $9760.63
+------------------------------
+
+Date: 2025-05-24
+Description: Generic Transaction - Transaction
+Amount: $226.72 CR
+Balance: $9987.35
+------------------------------
+
+Date: 2025-05-24
+Description: Disney+ - Purchase
+Amount: $143.74 DR
+Balance: $9843.61
+------------------------------
+
+Date: 2025-05-25
+Description: Generic Transaction - Purchase
+Amount: $802.86 DR
+Balance: $9040.75
+------------------------------
+
+Date: 2025-05-26
+Description: Internet Provider - Transfer
+Amount: $66.75 DR
+Balance: $8974.00
+------------------------------
+
+Date: 2025-05-27
+Description: Consulting Fee - Transaction
+Amount: $1028.57 CR
+Balance: $10002.57
+------------------------------
+
+Date: 2025-05-27
+Description: Generic Transaction - Transfer
+Amount: $136.80 DR
+Balance: $9865.77
+------------------------------
+
+Date: 2025-05-29
+Description: Generic Transaction - Purchase
+Amount: $202.57 DR
+Balance: $9663.20
+------------------------------
+
+Date: 2025-05-29
+Description: Generic Transaction - Purchase
+Amount: $117.11 DR
+Balance: $9546.09
+------------------------------
+
+Date: 2025-05-29
+Description: Magazine Subscription - Transfer
+Amount: $78.50 DR
+Balance: $9467.59
+------------------------------
+
+Date: 2025-05-29
+Description: Internet Provider - Transfer
+Amount: $130.08 DR
+Balance: $9337.51
+------------------------------
+
+Date: 2025-05-31
+Description: Water Utility - Transaction
+Amount: $278.16 DR
+Balance: $9059.35
+------------------------------
+
+Date: 2025-05-31
+Description: Monthly Salary - Payment
+Amount: $5646.75 CR
+Balance: $14706.10
+------------------------------
+
+Date: 2025-05-31
+Description: AMC Theaters - Transaction
+Amount: $78.18 DR
+Balance: $14627.92
+------------------------------
+
+Date: 2025-06-01
+Description: Generic Transaction - Transaction
+Amount: $75.58 DR
+Balance: $14552.34
+------------------------------
+
+Date: 2025-06-01
+Description: Monthly Salary Deposit
+Amount: $5000.00 CR
+Balance: $19552.34
+------------------------------
+
+Date: 2025-06-02
+Description: Generic Transaction - Transfer
+Amount: $864.16 DR
+Balance: $18688.18
+------------------------------
+
+Date: 2025-06-02
+Description: Generic Transaction
+Amount: $1693.17 DR
+Balance: $16995.01
+------------------------------
+
+Date: 2025-06-02
+Description: Generic Transaction - Payment
+Amount: $153.60 DR
+Balance: $16841.41
+------------------------------
+
+Date: 2025-06-03
+Description: Medical Clinic - Purchase
+Amount: $212.04 DR
+Balance: $16629.37
+------------------------------
+
+Date: 2025-06-03
+Description: Whole Foods - Purchase
+Amount: $85.93 DR
+Balance: $16543.44
+------------------------------
+
+Date: 2025-06-04
+Description: AMC Theaters - Transfer
+Amount: $119.21 DR
+Balance: $16424.23
+------------------------------
+
+Date: 2025-06-05
+Description: Nordstrom
+Amount: $368.41 DR
+Balance: $16055.82
+------------------------------
+
+Date: 2025-06-05
+Description: Internet Provider - Payment
+Amount: $102.75 DR
+Balance: $15953.07
+------------------------------
+
+Date: 2025-06-05
+Description: Rent Payment - Apartment
+Amount: $1500.00 DR
+Balance: $14453.07
+------------------------------
+
+Date: 2025-06-06
+Description: Generic Transaction - Payment
+Amount: $95.76 DR
+Balance: $14357.31
+------------------------------
+
+Date: 2025-06-07
+Description: Generic Transaction
+Amount: $101.62 DR
+Balance: $14255.69
+------------------------------
+
+Date: 2025-06-07
+Description: Macys - Transaction
+Amount: $353.24 DR
+Balance: $13902.45
+------------------------------
+
+Date: 2025-06-07
+Description: Chipotle
+Amount: $10.99 DR
+Balance: $13891.46
+------------------------------
+
+Date: 2025-06-08
+Description: Generic Transaction
+Amount: $124.55 DR
+Balance: $13766.91
+------------------------------
+
+Date: 2025-06-09
+Description: AMC Theaters - Transaction
+Amount: $38.56 DR
+Balance: $13728.35
+------------------------------
+
+Date: 2025-06-10
+Description: Generic Transaction - Transaction
+Amount: $148.00 DR
+Balance: $13580.35
+------------------------------
+
+Date: 2025-06-10
+Description: Investment Return - Payment
+Amount: $423.96 CR
+Balance: $14004.31
+------------------------------
+
+Date: 2025-06-10
+Description: Walmart
+Amount: $180.52 DR
+Balance: $13823.79
+------------------------------
+
+Date: 2025-06-11
+Description: Generic Transaction - Purchase
+Amount: $1771.96 DR
+Balance: $12051.83
+------------------------------
+
+Date: 2025-06-11
+Description: Generic Transaction
+Amount: $197.08 DR
+Balance: $11854.75
+------------------------------
+
+Date: 2025-06-12
+Description: Medical Clinic - Purchase
+Amount: $404.72 DR
+Balance: $11450.03
+------------------------------
+
+Date: 2025-06-12
+Description: Walmart - Transfer
+Amount: $58.41 DR
+Balance: $11391.62
+------------------------------
+
+Date: 2025-06-15
+Description: Generic Transaction - Payment
+Amount: $158.40 DR
+Balance: $11233.22
+------------------------------
+
+Date: 2025-06-15
+Description: Generic Transaction - Transfer
+Amount: $163.67 DR
+Balance: $11069.55
+------------------------------
+
+Date: 2025-06-15
+Description: Generic Transaction - Purchase
+Amount: $199.61 DR
+Balance: $10869.94
+------------------------------
+
+Date: 2025-06-15
+Description: Monthly Salary - Purchase
+Amount: $4037.69 CR
+Balance: $14907.63
+------------------------------
+
+Date: 2025-06-16
+Description: Red Lobster
+Amount: $23.89 DR
+Balance: $14883.74
+------------------------------
+
+Date: 2025-06-16
+Description: Generic Transaction - Transaction
+Amount: $60.51 DR
+Balance: $14823.23
+------------------------------
+
+Date: 2025-06-16
+Description: Generic Transaction
+Amount: $45.58 DR
+Balance: $14777.65
+------------------------------
+
+Date: 2025-06-16
+Description: Generic Transaction - Transaction
+Amount: $483.52 CR
+Balance: $15261.17
+------------------------------
+
+Date: 2025-06-17
+Description: Generic Transaction - Transaction
+Amount: $472.52 DR
+Balance: $14788.65
+------------------------------
+
+Date: 2025-06-18
+Description: Generic Transaction - Purchase
+Amount: $369.06 DR
+Balance: $14419.59
+------------------------------
+
+Date: 2025-06-19
+Description: Software License
+Amount: $88.45 DR
+Balance: $14331.14
+------------------------------
+
+Date: 2025-06-19
+Description: Generic Transaction
+Amount: $623.44 DR
+Balance: $13707.70
+------------------------------
+
+Date: 2025-06-20
+Description: Generic Transaction - Purchase
+Amount: $600.41 DR
+Balance: $13107.29
+------------------------------
+
+Date: 2025-06-20
+Description: Generic Transaction - Transaction
+Amount: $844.28 DR
+Balance: $12263.01
+------------------------------
+
+Date: 2025-06-20
+Description: Generic Transaction - Payment
+Amount: $359.13 DR
+Balance: $11903.88
+------------------------------
+
+Date: 2025-06-22
+Description: Generic Transaction - Payment
+Amount: $799.71 DR
+Balance: $11104.17
+------------------------------
+
+Date: 2025-06-24
+Description: Netflix - Transfer
+Amount: $39.77 DR
+Balance: $11064.40
+------------------------------
+
+Date: 2025-06-25
+Description: Water Utility - Transfer
+Amount: $297.36 DR
+Balance: $10767.04
+------------------------------
+
+Date: 2025-06-25
+Description: Generic Transaction - Transfer
+Amount: $121.59 DR
+Balance: $10645.45
+------------------------------
+
+Date: 2025-06-27
+Description: Apple Store
+Amount: $95.62 DR
+Balance: $10549.83
+------------------------------
+
+Date: 2025-06-28
+Description: Generic Transaction - Transaction
+Amount: $37.22 DR
+Balance: $10512.61
+------------------------------
+
+Date: 2025-06-28
+Description: Generic Transaction - Transaction
+Amount: $708.55 DR
+Balance: $9804.06
+------------------------------
+
+Date: 2025-06-28
+Description: Olive Garden - Payment
+Amount: $56.18 DR
+Balance: $9747.88
+------------------------------
+
+Date: 2025-06-29
+Description: Generic Transaction - Transaction
+Amount: $1263.26 DR
+Balance: $8484.62
+------------------------------
+
+Date: 2025-06-30
+Description: Consulting Fee - Purchase
+Amount: $1863.59 CR
+Balance: $10348.21
+------------------------------
+
+Date: 2025-07-01
+Description: Walgreens - Transfer
+Amount: $138.95 DR
+Balance: $10209.26
+------------------------------
+
+Date: 2025-07-01
+Description: Generic Transaction - Transaction
+Amount: $124.66 DR
+Balance: $10084.60
+------------------------------
+
+Date: 2025-07-01
+Description: Generic Transaction - Purchase
+Amount: $813.04 CR
+Balance: $10897.64
+------------------------------
+
+Date: 2025-07-01
+Description: Generic Transaction - Payment
+Amount: $127.98 DR
+Balance: $10769.66
+------------------------------
+
+Date: 2025-07-01
+Description: Monthly Salary Deposit
+Amount: $5000.00 CR
+Balance: $15769.66
+------------------------------
+
+Date: 2025-07-02
+Description: Generic Transaction - Transaction
+Amount: $815.32 DR
+Balance: $14954.34
+------------------------------
+
+Date: 2025-07-04
+Description: Costco
+Amount: $137.60 DR
+Balance: $14816.74
+------------------------------
+
+Date: 2025-07-04
+Description: Generic Transaction - Payment
+Amount: $1400.18 DR
+Balance: $13416.56
+------------------------------
+
+Date: 2025-07-05
+Description: Generic Transaction - Transfer
+Amount: $892.76 DR
+Balance: $12523.80
+------------------------------
+
+Date: 2025-07-05
+Description: Rent Payment - Apartment
+Amount: $1500.00 DR
+Balance: $11023.80
+------------------------------
+
+Date: 2025-07-06
+Description: Walgreens - Payment
+Amount: $229.46 DR
+Balance: $10794.34
+------------------------------
+
+Date: 2025-07-07
+Description: Generic Transaction - Purchase
+Amount: $877.27 DR
+Balance: $9917.07
+------------------------------
+
+Date: 2025-07-07
+Description: Generic Transaction - Payment
+Amount: $102.21 DR
+Balance: $9814.86
+------------------------------
+
+Date: 2025-07-08
+Description: Gym Membership
+Amount: $28.31 DR
+Balance: $9786.55
+------------------------------
+
+Date: 2025-07-08
+Description: Magazine Subscription
+Amount: $10.64 DR
+Balance: $9775.91
+------------------------------
+
+Date: 2025-07-08
+Description: Generic Transaction - Transaction
+Amount: $310.47 DR
+Balance: $9465.44
+------------------------------
+
+Date: 2025-07-08
+Description: Home Depot - Payment
+Amount: $286.05 DR
+Balance: $9179.39
+------------------------------
+
+Date: 2025-07-09
+Description: Olive Garden - Transfer
+Amount: $30.63 DR
+Balance: $9148.76
+------------------------------
+
+Date: 2025-07-11
+Description: Concert Tickets
+Amount: $43.05 DR
+Balance: $9105.71
+------------------------------
+
+Date: 2025-07-12
+Description: Generic Transaction - Purchase
+Amount: $2874.22 DR
+Balance: $6231.49
+------------------------------
+
+Date: 2025-07-12
+Description: Interest Payment
+Amount: $933.07 CR
+Balance: $7164.56
+------------------------------
+
+Date: 2025-07-13
+Description: Nike Store - Transfer
+Amount: $302.30 DR
+Balance: $6862.26
+------------------------------
+
+Date: 2025-07-13
+Description: Subway
+Amount: $19.01 DR
+Balance: $6843.25
+------------------------------
+
+Date: 2025-07-13
+Description: Cloud Storage - Transaction
+Amount: $56.35 DR
+Balance: $6786.90
+------------------------------
+
+Date: 2025-07-13
+Description: Generic Transaction - Payment
+Amount: $247.07 DR
+Balance: $6539.83
+------------------------------
+
+Date: 2025-07-14
+Description: Generic Transaction - Transfer
+Amount: $225.92 DR
+Balance: $6313.91
+------------------------------
+
+Date: 2025-07-15
+Description: Generic Transaction - Transaction
+Amount: $1613.40 DR
+Balance: $4700.51
+------------------------------
+
+Date: 2025-07-15
+Description: Generic Transaction - Purchase
+Amount: $118.83 DR
+Balance: $4581.68
+------------------------------
+
+Date: 2025-07-15
+Description: Investment Return
+Amount: $885.32 CR
+Balance: $5467.00
+------------------------------
+
+Date: 2025-07-16
+Description: Red Lobster - Transaction
+Amount: $36.07 DR
+Balance: $5430.93
+------------------------------
+
+Date: 2025-07-16
+Description: Generic Transaction - Transaction
+Amount: $2878.96 DR
+Balance: $2551.97
+------------------------------
+
+Date: 2025-07-17
+Description: Generic Transaction - Transfer
+Amount: $823.72 DR
+Balance: $1728.25
+------------------------------
+
+Date: 2025-07-18
+Description: Medical Clinic - Transfer
+Amount: $447.22 DR
+Balance: $1281.03
+------------------------------
+
+Date: 2025-07-18
+Description: Apple Store - Transfer
+Amount: $43.33 DR
+Balance: $1237.70
+------------------------------
+
+Date: 2025-07-18
+Description: Phone Bill - Transaction
+Amount: $224.11 DR
+Balance: $1013.59
+------------------------------
+
+Date: 2025-07-20
+Description: Generic Transaction
+Amount: $119.66 DR
+Balance: $893.93
+------------------------------
+
+Date: 2025-07-21
+Description: Internet Provider - Transfer
+Amount: $74.05 DR
+Balance: $819.88
+------------------------------
+
+Date: 2025-07-22
+Description: Generic Transaction - Transfer
+Amount: $56.77 DR
+Balance: $763.11
+------------------------------
+
+Date: 2025-07-22
+Description: Generic Transaction - Purchase
+Amount: $98.66 DR
+Balance: $664.45
+------------------------------
+
+Date: 2025-07-23
+Description: Costco - Transfer
+Amount: $56.44 DR
+Balance: $608.01
+------------------------------
+
+Date: 2025-07-23
+Description: Generic Transaction - Transfer
+Amount: $168.47 DR
+Balance: $439.54
+------------------------------
+
+Date: 2025-07-23
+Description: Generic Transaction - Transaction
+Amount: $30.34 DR
+Balance: $409.20
+------------------------------
+
+Date: 2025-07-24
+Description: Walgreens - Transaction
+Amount: $401.15 DR
+Balance: $8.05
+------------------------------
+
+Date: 2025-07-24
+Description: Macys
+Amount: $435.11 DR
+Balance: $-427.06
+------------------------------
+
+Date: 2025-07-25
+Description: Generic Transaction - Transaction
+Amount: $28.61 DR
+Balance: $-455.67
+------------------------------
+
+Date: 2025-07-26
+Description: Generic Transaction - Payment
+Amount: $1715.11 DR
+Balance: $-2170.78
+------------------------------
+
+Date: 2025-07-26
+Description: Generic Transaction
+Amount: $131.04 DR
+Balance: $-2301.82
+------------------------------
+
+Date: 2025-07-27
+Description: Generic Transaction - Payment
+Amount: $177.18 CR
+Balance: $-2124.64
+------------------------------
+
+Date: 2025-07-27
+Description: Red Lobster - Purchase
+Amount: $71.25 DR
+Balance: $-2195.89
+------------------------------
+
+Date: 2025-07-28
+Description: Consulting Fee - Payment
+Amount: $1146.31 CR
+Balance: $-1049.58
+------------------------------
+
+Date: 2025-07-28
+Description: Generic Transaction - Transfer
+Amount: $771.60 DR
+Balance: $-1821.18
+------------------------------
+
+Date: 2025-07-29
+Description: Electric Company - Purchase
+Amount: $226.15 DR
+Balance: $-2047.33
+------------------------------
+
+Date: 2025-07-29
+Description: Generic Transaction
+Amount: $143.57 DR
+Balance: $-2190.90
+------------------------------
+
+Date: 2025-07-30
+Description: Generic Transaction - Payment
+Amount: $1768.60 DR
+Balance: $-3959.50
+------------------------------
+
+Date: 2025-08-02
+Description: Contract Work - Transaction
+Amount: $1023.51 CR
+Balance: $-2935.99
+------------------------------
+
+Date: 2025-08-02
+Description: McDonalds - Purchase
+Amount: $72.49 DR
+Balance: $-3008.48
+------------------------------
+
+Date: 2025-08-03
+Description: Medical Clinic - Payment
+Amount: $147.47 DR
+Balance: $-3155.95
+------------------------------
+
+Date: 2025-08-03
+Description: Gym Membership
+Amount: $76.55 DR
+Balance: $-3232.50
+------------------------------
+
+Date: 2025-08-04
+Description: Generic Transaction - Purchase
+Amount: $229.44 DR
+Balance: $-3461.94
+------------------------------
+
+Date: 2025-08-04
+Description: Monthly Salary - Payment
+Amount: $7111.60 CR
+Balance: $3649.66
+------------------------------
+
+Date: 2025-08-06
+Description: Kroger - Transaction
+Amount: $192.78 DR
+Balance: $3456.88
+------------------------------
+
+Date: 2025-08-06
+Description: Concert Tickets - Transaction
+Amount: $34.60 DR
+Balance: $3422.28
+------------------------------
+
+Date: 2025-08-06
+Description: Generic Transaction - Transfer
+Amount: $1639.49 DR
+Balance: $1782.79
+------------------------------
+
+Date: 2025-08-08
+Description: AMC Theaters
+Amount: $49.61 DR
+Balance: $1733.18
+------------------------------
+
+Date: 2025-08-08
+Description: Generic Transaction - Transaction
+Amount: $2587.51 DR
+Balance: $-854.33
+------------------------------
+
+Date: 2025-08-09
+Description: Metro Transit - Transaction
+Amount: $39.55 DR
+Balance: $-893.88
+------------------------------
+
+Date: 2025-08-09
+Description: Car Rental - Payment
+Amount: $5.20 DR
+Balance: $-899.08
+------------------------------
+
+Date: 2025-08-11
+Description: Generic Transaction - Payment
+Amount: $1283.36 DR
+Balance: $-2182.44
+------------------------------
+
+Date: 2025-08-11
+Description: Apple Store - Transaction
+Amount: $381.62 DR
+Balance: $-2564.06
+------------------------------
+
+Date: 2025-08-12
+Description: Walmart - Payment
+Amount: $72.44 DR
+Balance: $-2636.50
+------------------------------
+
+Date: 2025-08-12
+Description: Chevron - Transfer
+Amount: $79.89 DR
+Balance: $-2716.39
+------------------------------
+
+Date: 2025-08-13
+Description: Costco - Purchase
+Amount: $243.26 DR
+Balance: $-2959.65
+------------------------------
+
+Date: 2025-08-14
+Description: Generic Transaction - Purchase
+Amount: $130.65 DR
+Balance: $-3090.30
+------------------------------
+
+
+==================================================
+Ending Balance: $-3090.30
