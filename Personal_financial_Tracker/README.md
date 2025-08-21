@@ -81,7 +81,6 @@ That's it! Upload your first bank statement and see insights in seconds.
 - **Batch Processing**: Upload multiple statements simultaneously
 
 ### 2. **AI-Powered Categorization**
-- **96% Accuracy**: Machine learning model trained on 1M+ transactions
 - **Custom Categories**: Define your own categories and rules
 - **Merchant Recognition**: Identifies vendors even with cryptic bank descriptions
 - **Recurring Detection**: Automatically flags subscriptions and regular payments
