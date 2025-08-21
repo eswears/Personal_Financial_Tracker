@@ -263,3 +263,5 @@ tramp
 
 # Ignore empty directories (Git does this by default)
 # Empty directories won't be tracked anyway
+# Claude Code local settings
+.claude/
